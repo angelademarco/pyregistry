@@ -11,7 +11,7 @@ Installation and running
 
 From github::
 
-      $ pip install git+https://github.com/dohnto/pydor
+      $ pip install git+https://github.com/angelademarco/pyregistry
       $ pydor --help
 
 Using docker::
